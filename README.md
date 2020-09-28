@@ -1,4 +1,4 @@
-<strong><h2>Hei there 👋</h2></strong>
+<strong><h2>Hi there 👋</h2></strong>
 
 I'm ismail boularbah, Cuber & JavaScript web developer, i've been working on the web for around 2 years.
 
